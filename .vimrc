@@ -75,6 +75,7 @@ syntax on
 
 "search
 set incsearch
+let g:ctrlsf_default_root='~/workspace/ClickHouse'
 
 
 
